@@ -19,3 +19,4 @@ Our server seems to be leaking pieces of a secret flag in its logs. The parts ar
 # Flag
 picoCTF{us3_y0urlinux_sk1lls_cedfa5fb}
 <img width="1013" height="238" alt="image" src="https://github.com/user-attachments/assets/7a3f9472-436a-4e0d-aac9-3f8fba960902" />
+<img width="978" height="727" alt="image" src="https://github.com/user-attachments/assets/ba00139f-1e59-4e47-8bdb-ab16c9a077c4" />
