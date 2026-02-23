@@ -23,7 +23,3 @@ picoCTF{forensics_analysis_is_amazing_5ccc7cb0}
 <img width="1149" height="234" alt="image" src="https://github.com/user-attachments/assets/c2e82126-79f2-4065-ace0-5bf1aba85c48" />
 <img width="1215" height="688" alt="image" src="https://github.com/user-attachments/assets/0d37e169-00a9-4590-a57c-9a57b0f5804a" />
 <img width="1546" height="90" alt="image" src="https://github.com/user-attachments/assets/8a419422-8ddd-4702-9a1e-c86453258ba6" />
-
-
-<img width="884" height="217" alt="image" src="https://github.com/user-attachments/assets/fe32d215-b974-4acd-87a3-f09859983020" />
-<img width="638" height="304" alt="image" src="https://github.com/user-attachments/assets/49fab895-af06-4aa2-aab5-7288aca18737" />
